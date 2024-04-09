@@ -10,9 +10,11 @@ Linux and SQL gave me the ability to manage and secure databases and operating s
 Moreover, proficiency in Python gives me the capability to automate tasks, analyze data, and develop custom cybersecurity solutions, offering businesses tailored protection against evolving threats. Overall, I am equipped with a robust skill set necessary to proactively protect businesses from cyber attacks and maintain the integrity and confidentiality of critical assets.
 
 
-| Virtual Machine                                            | Associated Role                                    |
+| Virtual Machine                                 | Associated Role                                       |
 | ----------------------------------------------- | ----------------------------------------------------- |
-| Ubuntu w/ LimaCharlie && Sliver                          |         <a href="https://github.com/BenjaminBurton/Active-Directory-Project/blob/main/src/kali-linux/README.md">Cybersecurity Specialist</a>|
+| Ubuntu                                          |         <a href="#">Cybersecurity Specialist</a>      |
+| Windows 10 && 11                                |         <a href="#">Cybersecurity Specialist</a>      |
+| Kali Linux                                      |         <a href="#">Cybersecurity Specialist</a>      |
 
 
 ```js
